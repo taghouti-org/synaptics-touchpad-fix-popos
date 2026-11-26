@@ -23,7 +23,3 @@ The Xorg configuration has no effect in a Wayland session.
 
 For Ubuntu, which uses GRUB, see
 [synaptics-touchpad-fix-ubuntu](https://github.com/taghouti-org/synaptics-touchpad-fix-ubuntu).
-
----
-
-First published as a [gist](https://gist.github.com/taghouttarek/7f9c71b29d1787088281178c2b83dd6f).
